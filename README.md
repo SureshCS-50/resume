@@ -10,16 +10,15 @@ The sections below are my personal resume, followed by a longer and more detaile
 
 The following is a few highlights from my work history:
  
- * **Teehalf Solutions** (Aug, 2014 - current) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am into Android Application Development and published 3 Android Application with maturity level 4.0+ in PlayStore.
+ * **Teehalf Solutions** (Aug, 2014 - current) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am responsible for primary development, maintenance of Android Application Development and published some Application with maturity level around 4.0 in PlayStore.
 
  | Project | Description                                                                 | Status |
 | ------- | -------------------------------                                            | ------- |
 | Event/ Conference Application | Event/ Conference Management app for Healthcare Events | |
 |  |	- [APICON 2015](https://play.google.com/store/apps/details?id=co.eventtouch.apicon2015) | CLOSED |
-|  |	- [RSSDI 2015](https://play.google.com/store/apps/details?id=co.eventtouch.rssdi2015) | OPEN |
+|  |	- [RSSDI 2015](https://play.google.com/store/apps/details?id=co.eventtouch.rssdi2015) | CLOSED |
 | [PocketPill](https://play.google.com/store/apps/details?id=com.teehalf.pocketpill) | An Offline drug reference app displaying 1200+ generics and 70,000 brands Quick Search by Generic, Brand or Therapy Group | OPEN |
 | ScriptsMD | Scripts MD is an app for Doctors helps them create appointment for patients, add vital assessments and Rx. | Under testing |
-| MyScripts | My Scripts is on patient side where patients can see their medical records and book new appointments. | Under testing |
 
 
  * **Creotech Media Solutions** (March, 2014 - July 2014) - Creotech is a Service Based startup. I am Responsible for primary development, maintenance and deployment of Android Applications. I have created a Music Player Application.
@@ -67,7 +66,6 @@ of my projects.
 
 A few links to other miscellaneous resources:
 
-* [Github](https://github.com/SureshCS-50)
 * [StackOverflow](http://stackoverflow.com/users/2906641/user2906641)
 * [LinkedIn](https://in.linkedin.com/pub/sureshkumar-bala-subramaniam/72/956/422)
 
