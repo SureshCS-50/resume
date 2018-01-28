@@ -1,6 +1,6 @@
 # Introduction
 
-My name is SureshKumar and I am an Android application developer who likes building products and participating in startups. I also have a passion for open source, and executing new and impactful ideas also Interested in learning application development for Wearables and Other Mobile Development Platforms. Currently living in Bangalore.
+I am SureshKumar, an Android and React-native application developer, likes building products. I have a passion for open source, and executing new and impactful ideas also Interested in learning application development for Other Mobile Development Platforms. Currently living in Chennai.
 
 If you are looking for a more "traditional resume", please 
 [download the PDF](https://github.com/SureshCS-50/resume/blob/master/Sureshkumar_Android_Developer.pdf?raw=true).
@@ -9,8 +9,16 @@ The sections below are my personal resume, followed by a longer and more detaile
 # My Professional History
 
 The following is a few highlights from my work history:
+
+ * **Tenmiles Technologies** (Feb, 2016 - current) - Tenmiles is a Product-based startup, builds HappyFox (a CRM application - Helpdesk and Chat). I worked in Chat Product and contributed to Helpstack SDK. I am responsible for primary development, maintenance of Android Application Development.
+
+ | Project | Description                                                                 | Status |
+| ------- | -------------------------------                                            | ------- |
+| [HappyFox Chat](https://play.google.com/store/apps/details?id=com.happyfox.happyfoxchat) | HappyFox Chat for Android lets you take live chat requests from your website visitors. | OPEN |
+| [HappyFox Chat Reports](https://play.google.com/store/apps/details?id=com.happyfoxchat.reports) | HappyFox Chat Reporting - My First React-native application. Lets you view stats from your HappyFox Chat account anywhere, anytime. Track activities and volume of chats on the go. It is great way to monitor the performance and quality of your chat support. | OPEN |
+| [Helpstack SDK](https://github.com/happyfoxinc/helpstack-android) | HelpStack is a library to provide in-app support for your app's users. | OPEN |
  
- * **Teehalf Solutions** (Aug, 2014 - current) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am responsible for primary development, maintenance of Android Application Development and published some Application with maturity level around 4.0 in PlayStore.
+ * **Teehalf Solutions** (Aug, 2014 - Dec 2015) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am responsible for primary development, maintenance of Android Application Development and published some Application with maturity level around 4.0 in PlayStore.
 
  | Project | Description                                                                 | Status |
 | ------- | -------------------------------                                            | ------- |
@@ -18,8 +26,7 @@ The following is a few highlights from my work history:
 |  |	- [APICON 2015](https://play.google.com/store/apps/details?id=co.eventtouch.apicon2015) | CLOSED |
 |  |	- [RSSDI 2015](https://play.google.com/store/apps/details?id=co.eventtouch.rssdi2015) | CLOSED |
 | [PocketPill](https://play.google.com/store/apps/details?id=com.teehalf.pocketpill) | An Offline drug reference app displaying 1200+ generics and 70,000 brands Quick Search by Generic, Brand or Therapy Group | OPEN |
-| ScriptsMD | Scripts MD is an app for Doctors helps them create appointment for patients, add vital assessments and Rx. | Under testing |
-
+| [Care Circle](https://play.google.com/store/apps/details?id=com.teehalf.erx&hl=en) | Care circle is an app for Doctors helps them create appointment for patients, add Patient history, capture and upload Lab records, Write prescription and Print it directly in Wireless Printer. | OPEN |
 
  * **Creotech Media Solutions** (March, 2014 - July 2014) - Creotech is a Service Based startup. I am Responsible for primary development, maintenance and deployment of Android Applications. I have created a Music Player Application.
 
@@ -40,11 +47,18 @@ The following is a few highlights from my work history:
 
 This is an attempt to honestly evaluate my own skills (as hard as that can be).
 The scale is from 1 (complete beginner) to 10 (practical master, knows topic inside and out).
- 
- * **git**: 6
- * **Android**: 7
- * **Java**: 7
- * **Interaction Design** (user experience): 5
+
+
+  | | Tools/ Frameworks/ SDKs/ Languages | Score |
+  |---- | ------- | -------- |
+  | Application Programming Interface | Android | 8 |
+  |  | React-native | 6 |
+  | Programming Languages | Java | 8 |
+  |  | JavaScript (es6) | 6 |
+  | Interactive Design | XML (Android) | 9 |
+  |  | React Components (JSX, StyleSheet) | 6 |
+  | Testing Frameworks | Jest, Enzyme (Shallow Wrapper) | 8 |
+  | VCS | Git, Mercurial | 7 |
 
 I will be adding to this list and hopefully updating it in an ongoing effort to improve.
 
@@ -66,8 +80,8 @@ of my projects.
 
 A few links to other miscellaneous resources:
 
-* [StackOverflow](http://stackoverflow.com/users/2906641/user2906641)
-* [LinkedIn](https://in.linkedin.com/pub/sureshkumar-bala-subramaniam/72/956/422)
+* [StackOverflow](https://stackoverflow.com/users/2906641/user2906641)
+* [LinkedIn](https://www.linkedin.com/in/sureshcs50/)
 
 # Questions?
 
