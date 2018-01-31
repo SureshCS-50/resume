@@ -10,7 +10,7 @@ The sections below are my personal resume, followed by a longer and more detaile
 
 The following is a few highlights from my work history:
 
- * **Tenmiles Technologies** (Feb, 2016 - current) - Tenmiles is a Product-based startup, builds HappyFox (a CRM application - Helpdesk and Chat). I worked in Chat Product and contributed to Helpstack SDK. I am responsible for primary development, maintenance of Android Application Development.
+ * **Tenmiles Technologies** (Feb, 2016 - current) - Tenmiles is a Product-based startup, builds HappyFox (a CRM application - Helpdesk and Chat). I worked in Chat and Chat Reports Products and contributed to Helpstack SDK. I am responsible for primary development, maintenance of Android Application Development.
 
  | Project | Description                                                                 | Status |
 | ------- | -------------------------------                                            | ------- |
@@ -18,7 +18,7 @@ The following is a few highlights from my work history:
 | [HappyFox Chat Reports](https://play.google.com/store/apps/details?id=com.happyfoxchat.reports) | HappyFox Chat Reporting - My First React-native application. Lets you view stats from your HappyFox Chat account anywhere, anytime. Track activities and volume of chats on the go. It is great way to monitor the performance and quality of your chat support. | OPEN |
 | [Helpstack SDK](https://github.com/happyfoxinc/helpstack-android) | HelpStack is a library to provide in-app support for your app's users. | OPEN |
  
- * **Teehalf Solutions** (Aug, 2014 - Dec 2015) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am responsible for primary development, maintenance of Android Application Development and published some Application with maturity level around 4.0 in PlayStore.
+ * **Teehalf Solutions** (Aug, 2014 - Dec 2015) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am responsible for primary development, maintenance of Android Application Development and published some Applications.
 
  | Project | Description                                                                 | Status |
 | ------- | -------------------------------                                            | ------- |
