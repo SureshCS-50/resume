@@ -4,13 +4,23 @@ I am SureshKumar, an Android and React-native application developer, likes build
 
 If you are looking for a more "traditional resume", please 
 [download the PDF](https://github.com/SureshCS-50/resume/blob/master/Sureshkumar_Android_Developer.pdf?raw=true).
-The sections below are my personal resume, followed by a longer and more detailed history of my background. 
+The sections below are my personal resume, followed by a longer and more detailed history of my background.
 
 # My Professional History
 
 The following is a few highlights from my work history:
 
- * **Tenmiles Technologies** (Feb, 2016 - current) - Tenmiles is a Product-based startup, builds HappyFox (a CRM application - Helpdesk and Chat). I worked in Chat and Chat Reports Products and contributed to Helpstack SDK. I am responsible for primary development, maintenance of Android Application Development.
+* **Jade Payment Solutions (Tappit)** (Jun, 2018 - current) - Jade Payment Solutions is a Product-based startup, builds Tappit (offline Payment application for events uses NFC cards for payments). I work in Tappit agent application (includes POS, Access and Load) and in Tappit customer application (a wallet application). I am responsible for primary development and maintenance of Android Application Development.
+
+ | Project | Description                                                                 | Status |
+| ------- | -------------------------------                                            | ------- |
+| Tappit Agent | Tappit agent app has three main modules - POS, Access and Load. | OPEN (Enterprise Application) |
+|  | **POS** - This will be used my the Outlet Managers for handling spend and refund transaction.|  |
+|  | **Access** - This will be used at the entry and exit Gate/Area for check the access to an area (here NFC card will be like a ticket). Tapping the NFC card, will check the access.|  |
+|  | **Load** - This will be used my the Outlet Managers for Load and unload transaction.|  |
+| Tappit Customer | A customer application for Tappit, Let user top-up the wallet/NFC card and they can use that for payments.| TESTING |
+
+ * **Tenmiles Technologies** (Feb, 2016 - Jun, 2018) - Tenmiles is a Product-based startup, builds HappyFox (a CRM application - Helpdesk and Chat). I worked in Chat and Chat Reports Products and contributed to Helpstack SDK. I am responsible for primary development, maintenance of Android Application Development.
 
  | Project | Description                                                                 | Status |
 | ------- | -------------------------------                                            | ------- |
