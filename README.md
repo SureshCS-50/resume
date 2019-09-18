@@ -26,7 +26,7 @@ The following is a few highlights from my work history:
 | ------- | -------------------------------                                            | ------- |
 | [HappyFox Chat](https://play.google.com/store/apps/details?id=com.happyfox.happyfoxchat) | HappyFox Chat for Android lets you take live chat requests from your website visitors. | OPEN |
 | [HappyFox Chat Reports](https://play.google.com/store/apps/details?id=com.happyfoxchat.reports) | HappyFox Chat Reporting - My First React-native application. Lets you view stats from your HappyFox Chat account anywhere, anytime. Track activities and volume of chats on the go. It is great way to monitor the performance and quality of your chat support. | OPEN |
-| [Helpstack SDK](https://github.com/happyfoxinc/helpstack-android) | HelpStack is a library to provide in-app support for your app's users. | OPEN |
+| [Helpstack SDK](https://github.com/happyfoxinc/helpstack-android) | HelpStack is a library to provide in-app support for your app's users. | Released |
  
  * **Teehalf Solutions** (Aug, 2014 - Dec 2015) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am responsible for primary development, maintenance of Android Application Development and published some Applications.
 
