@@ -18,7 +18,7 @@ The following is a few highlights from my work history:
 |  | **POS** - This will be used at the outlet by the Outlet Agents for handling spend and refund transaction.|  |
 |  | **Access** - This will be used at the entry and exit Gate/Area for check the access to an area (here NFC card will be like a ticket). Tapping the NFC card, will check the access.|  |
 |  | **Load** - This will be used by the Outlet Managers at the top-up centers to top-up the NFC cards and to do the cash-out from NFC cards.|  |
-| Tappit Customer | A customer application for Tappit, Let user top-up the wallet/NFC card and they can use that at the POS outlets for payments.| TESTING |
+| Tappit Customer | A customer application for Tappit, Let user top-up the wallet/NFC card and they can use that at the POS outlets for payments.| RELEASED (distributed .aar to clients) |
 
  * **Tenmiles Technologies** (Feb, 2016 - Jun, 2018) - Tenmiles is a Product-based startup, builds HappyFox (a CRM application - Helpdesk and Chat). I worked in Chat and Chat Reports Products and contributed to Helpstack SDK. I am responsible for primary development, maintenance of Android Application Development.
 
@@ -26,7 +26,7 @@ The following is a few highlights from my work history:
 | ------- | -------------------------------                                            | ------- |
 | [HappyFox Chat](https://play.google.com/store/apps/details?id=com.happyfox.happyfoxchat) | HappyFox Chat for Android lets you take live chat requests from your website visitors. | OPEN |
 | [HappyFox Chat Reports](https://play.google.com/store/apps/details?id=com.happyfoxchat.reports) | HappyFox Chat Reporting - My First React-native application. Lets you view stats from your HappyFox Chat account anywhere, anytime. Track activities and volume of chats on the go. It is great way to monitor the performance and quality of your chat support. | OPEN |
-| [Helpstack SDK](https://github.com/happyfoxinc/helpstack-android) | HelpStack is a library to provide in-app support for your app's users. | Released |
+| [Helpstack SDK](https://github.com/happyfoxinc/helpstack-android) | HelpStack is a library to provide in-app support for your app's users. | OPEN |
  
  * **Teehalf Solutions** (Aug, 2014 - Dec 2015) - Teehalf Solutions is a Healthcare related startup, creates application that helps Healthcare Professionals. I am responsible for primary development, maintenance of Android Application Development and published some Applications.
 
