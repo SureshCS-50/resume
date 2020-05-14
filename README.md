@@ -1,16 +1,24 @@
 # Introduction
 
-I am SureshKumar, an Android and React-native application developer, likes building products. I have a passion for open source, and executing new and impactful ideas also Interested in learning application development for Other Mobile Development Platforms. Currently living in Chennai.
+I am SureshKumar, an Android, Flutter and React-native application developer with around 6+ years experience, likes building products. I have a passion for open source, and executing new and impactful ideas also Interested in learning application development for Other Mobile Development Platforms. Currently living in Chennai.
 
 If you are looking for a more "traditional resume", please 
-[download the PDF](https://github.com/SureshCS-50/resume/blob/master/Sureshkumar_Android_Developer.pdf?raw=true).
+[download the PDF](https://github.com/SureshCS-50/resume/blob/master/Sureshkumar_Android_Flutter_RN_Developer.pdf?raw=true).
 The sections below are my personal resume, followed by a longer and more detailed history of my background.
 
 # My Professional History
 
 The following is a few highlights from my work history:
 
-* **Jade Payment Solutions (Tappit)** (Jun, 2018 - current) - Jade Payment Solutions is a Product-based startup, builds Tappit (offline payment application for events uses NFC cards for payments). I work in Tappit agent application (includes POS, Access and Load) and in Tappit customer application (a wallet application). I am responsible for primary development and maintenance of Android Application Development.
+* **XSEED Education** (Nov 2019 - current) - Edpulse Education Technology is an ed-tech company (tech team of XSEED Education), We build applications that help ease our content team work and We create applications for Schools, Teachers and Students to share our digital learning resources.
+
+| Project | Description                                                                 | Status |
+| ------- | -------------------------------                                            | ------- |
+| XSEED Lesson Plan App | XSEED Lesson Plan​ ​app helps share our digital learning content to teachers and they use the app for preparing for the classes. This application has been created using Flutter. | BETA |
+| XSEED LP-entry | LP (Lesson Plan) entry app is an internal app used by the content team, to create the Lesson Plan for each standard and subject. This goes through various stages of reviewers and gets published to the XSEED lesson plan app. At every stage the current user is able to make review comments and can check differences in Lesson Plan content. | Internal App |
+| XSEED Library App | XSEED Library App is an internal app used by our content team to create and maintain the Blocks of Lesson Plans for each Standard and Subjects | Internal App |
+
+* **Jade Payment Solutions (Tappit)** (Jun, 2018 - Nov 2019) - Jade Payment Solutions is a Product-based startup, builds Tappit (offline payment application for events uses NFC cards for payments). I work in Tappit agent application (includes POS, Access and Load) and in Tappit customer application (a wallet application). I am responsible for primary development and maintenance of Android Application Development.
 
  | Project | Description                                                                 | Status |
 | ------- | -------------------------------                                            | ------- |
