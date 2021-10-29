@@ -3,7 +3,7 @@
 I am SureshKumar, a Frontend application developer with around 8+ years experience, likes building products. I have a passion for open source, and executing new and impactful ideas. I am also Interested in learning application development for other development platforms. Currently living in Bangalore.
 
 If you are looking for a more "traditional resume", please 
-[download the PDF](https://github.com/SureshCS-50/resume/blob/master/Sureshkumar_Android_Flutter_RN_Developer.pdf?raw=true).
+[download the PDF](https://github.com/SureshCS-50/resume/blob/master/Sureshkumar_Frontend_Developer.pdf?raw=true).
 The sections below are my personal resume, followed by a longer and more detailed history of my background.
 
 # My Professional History
