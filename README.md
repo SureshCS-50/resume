@@ -1,6 +1,6 @@
 # Introduction
 
-I am SureshKumar, an Android, Flutter and React-native application developer with around 6+ years experience, likes building products. I have a passion for open source, and executing new and impactful ideas also Interested in learning application development for Other Mobile Development Platforms. Currently living in Chennai.
+I am SureshKumar, a Frontend application developer with around 8+ years experience, likes building products. I have a passion for open source, and executing new and impactful ideas. I am also Interested in learning application development for other development platforms. Currently living in Bangalore.
 
 If you are looking for a more "traditional resume", please 
 [download the PDF](https://github.com/SureshCS-50/resume/blob/master/Sureshkumar_Android_Flutter_RN_Developer.pdf?raw=true).
@@ -10,7 +10,24 @@ The sections below are my personal resume, followed by a longer and more detaile
 
 The following is a few highlights from my work history:
 
-* **XSEED Education** (Nov 2019 - current) - Edpulse Education Technology is an ed-tech company (tech team of XSEED Education), We build applications that help ease our content team work and We create applications for Schools, Teachers and Students to share our digital learning resources.
+
+* **Legato Health Technologies** (Jun 2020 - current) - Legato Health Technologies is an IT and business consulting healthcare solutions company that specializes in utilizing digital tools to simplify healthcare. Legato is committed to transforming the world of healthcare through operational excellence, innovation, and digital transformation. We are uniquely positioned to enable enterprises & organizations across technology domains including data analytics, digital technologies, automation & AI and streamlined business processes, with robust infrastructure and fluid operational capacity.
+
+| Project                 | Frameworks & Libraries used                                     | Status |
+| ----------------------- | --------------------------------------------------------------- | ------ |
+| HealthOS - POPULATION HEALTH | - **Framework :** Typescript, React | CLOSED |
+| |- **Libraries :** Redux, Material-ui (v4), SASS, React-Router, Jest  | |
+| Mosaic Design Components | MDC is a set of components to create react applications that run on HealthOS Applications | CLOSED |
+| |- **Framework :** Typescript, React-Native, Storybook, Expo | |
+| |- **Libraries :** React-Native-Web, @shopify/restyle, victory, victory-native   | | 
+| @healthos/ui-themes | A Theme library, provides Anthem Theme for all the Material-ui Components | OPEN |
+| |- **Framework :** Typescript, React, Storybook | |
+| |- **Libraries :** Material-ui (v5), Rollup, Jest, @emotion/styled, @emotion/react   | |
+| @healthos/ui-kit | @healthos/ui-kit library exports the High Level Components that can be used in HealthOS Applications | OPEN |
+| |- **Framework :** Typescript, React, Storybook | |
+| |- **Libraries :** @heathos/ui-themes, @healthos/sdk, Material-ui (v5), Rollup, Jest, @emotion/styled, @emotion/react    | |       
+
+* **XSEED Education** (Nov 2019 - Jun 2020) - Edpulse Education Technology is an ed-tech company (tech team of XSEED Education), We build applications that help ease our content team work and We create applications for Schools, Teachers and Students to share our digital learning resources.
 
 | Project | Description                                                                 | Status |
 | ------- | -------------------------------                                            | ------- |
@@ -69,13 +86,15 @@ The scale is from 1 (complete beginner) to 10 (practical master, knows topic ins
 
   | | Tools/ Frameworks/ SDKs/ Languages | Score |
   |---- | ------- | -------- |
-  | Application Programming Interface | Android | 8 |
+  | Framework | React | 8 |
+  |  | Android | 8 |
   |  | React-native | 6 |
-  | Programming Languages | Java | 8 |
-  |  | JavaScript (es6) | 6 |
-  | Interactive Design | XML (Android) | 9 |
-  |  | React Components (JSX, StyleSheet) | 6 |
-  | Testing Frameworks | Jest, Enzyme (Shallow Wrapper) | 8 |
+  | Programming Languages | Typescript | 8 |
+  |  | Java | 8 |
+  | Interactive Design | Storybook | 8 |
+  |  | React Components (JSX, StyleSheet) | 8 |
+  |  | XML (Android) | 9 |
+  | Testing Frameworks | Jest | 9 |
   | VCS | Git, Mercurial | 7 |
 
 I will be adding to this list and hopefully updating it in an ongoing effort to improve.
